@@ -1,9 +1,10 @@
 create table POKEMON(
-numPokemon int primary key,
-nomPokemon char,
-descrPokemon char,
+numPokemon int primary key AUTO_INCREMENT,
+IDPokemon int,
+nomPokemon char(50),
 type1Pokemon int,
 type2Pokemon int,
+total int,
 viePokemon int,
 atqPokemon int,
 defPokemon int,
@@ -17,5 +18,5 @@ constraint FR_Type2 Foreign Key (type2Pokemon) references TYPE (numType)
 );
 
 create Table TYPE(
-numType int primary Key,
-labelType char);
+numType int primary Key AUTO_INCREMENT,
+labelType char(20));
