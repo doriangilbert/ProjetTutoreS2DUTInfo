@@ -1,0 +1,20 @@
+create table POKEMON(
+numPokemon int primary key,
+nomPokemon char,
+descrPokemon char,
+type1Pokemon int,
+type2Pokemon int,
+viePokemon int,
+atqPokemon int,
+defPokemon int,
+speAtqPokemon int,
+speDefPokemon int,
+spdPokemon int,
+legendary boolean,
+constraint FR_Type1 Foreign Key (type1Pokemon) references TYPE (numType),
+constraint FR_Type2 Foreign Key (type2Pokemon) references TYPE (numType)
+);
+
+create Table TYPE(
+numType int primary Key,
+labelType char);
