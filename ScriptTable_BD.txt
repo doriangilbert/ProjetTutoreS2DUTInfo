@@ -10,6 +10,7 @@ defPokemon int,
 speAtqPokemon int,
 speDefPokemon int,
 spdPokemon int,
+generationPokemon int,
 legendary boolean,
 constraint FR_Type1 Foreign Key (type1Pokemon) references TYPE (numType),
 constraint FR_Type2 Foreign Key (type2Pokemon) references TYPE (numType)
