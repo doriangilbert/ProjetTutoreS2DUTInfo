@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_affordex"
+            android:icon="@drawable/ic_affordex"
+            android:title="AfforDex" />
+    </group>
+
+    <item android:title="Filtrer">
+        <menu>
+            <item
+                android:id="@+id/nav_FType"
+                android:icon="@drawable/ic_filter"
+                android:title="Par type" />
+            <item
+                android:id="@+id/nav_FAlpha"
+                android:icon="@drawable/ic_filter"
+                android:title="Par ordre alphabétique" />
+            <item
+                android:id="@+id/nav_FPuiss_Croiss"
+                android:icon="@drawable/ic_filter"
+                android:title="Par puissance (Croissant)" />
+            <item
+                android:id="@+id/nav_FPuiss_Decroiss"
+                android:icon="@drawable/ic_filter"
+                android:title="Par puissance (Décroissant)" />
+        </menu>
+    </item>
+</menu>

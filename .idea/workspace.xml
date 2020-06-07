@@ -21,7 +21,12 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
@@ -33,7 +38,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1czoGkdtC5LTqWG0E9zo0yPkTsq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -42,7 +51,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -115,7 +124,19 @@
       <option name="presentableId" value="Default" />
       <updated>1591540688043</updated>
     </task>
+    <task id="LOCAL-00001" summary="Files added again">
+      <created>1591545202027</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591545202027</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Files added again" />
+    <option name="LAST_COMMIT_MESSAGE" value="Files added again" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1591541675163">
@@ -126,5 +147,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="274" key="AndroidCreateResourceFileDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591541231200" />
+    <state x="603" y="116" key="CommitChangelistDialog2" timestamp="1591545200636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="603" y="116" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591545200636" />
+    <state x="830" y="413" width="474" height="214" key="Github.ShareDialog" timestamp="1591544934676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="830" y="413" width="474" height="214" key="Github.ShareDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591544934676" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1591544845934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591544845934" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1591545343865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591545343865" />
+    <state x="655" y="311" key="git4idea.merge.GitPullDialog" timestamp="1591545439325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="311" key="git4idea.merge.GitPullDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591545439325" />
   </component>
 </project>
