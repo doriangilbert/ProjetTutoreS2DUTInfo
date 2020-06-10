@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "A:\\Bureau\\ProjetTutoreS2DUTInfo-8c2f34cb1848782c88ae73b79bb54da32191fbf3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-th\\values-th.xml",
+            "outputFile": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-th\\values-th.xml",
             "map": [
                 {
                     "source": "C:\\Users\\rmore\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-th\\values-th.xml",

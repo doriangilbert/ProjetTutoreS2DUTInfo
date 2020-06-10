@@ -9,20 +9,9 @@ import androidx.drawerlayout.widget.DrawerLayout;
 
 import android.os.Bundle;
 import android.view.MenuItem;
-import android.view.View;
-import android.widget.ImageView;
-import android.widget.LinearLayout;
-import android.widget.RelativeLayout;
-import android.widget.TextView;
 import android.widget.Toast;
 
-
 import com.google.android.material.navigation.NavigationView;
-
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.ResultSet;
-import java.sql.Statement;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
     private DrawerLayout drawer; //App drawer (= Les 3 traits en haut à droite de l'écran) permettant d'accéder au menu latéral en cliquant dessus
@@ -50,8 +39,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             navigationView.setCheckedItem(R.id.nav_affordex);
         }
 
-        setContentView(R.layout.activity_main);
-
+        /* Code de récupération des informations de la BD mits en commentaire car il ne marche pas et fait disparaitre le menu latéral
         //Récupération des informations de la BD
         try {
 
@@ -109,6 +97,9 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
             e.printStackTrace();
         }
+*/
+
+
 
     }
 
