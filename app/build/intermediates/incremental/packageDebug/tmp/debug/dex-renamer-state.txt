@@ -1,7 +1,7 @@
-#Wed Jun 10 20:11:36 CEST 2020
-base.0=D\:\\Users\\dodog\\Documents\\GitHub\\ProjetTutoreS2DUTInfo\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+#Wed Jun 10 22:17:46 CEST 2020
+base.0=A\:\\Bureau\\ProjetTutoreS2DUTInfo-8c2f34cb1848782c88ae73b79bb54da32191fbf3\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=D\:\\Users\\dodog\\Documents\\GitHub\\ProjetTutoreS2DUTInfo\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.1=A\:\\Bureau\\ProjetTutoreS2DUTInfo-8c2f34cb1848782c88ae73b79bb54da32191fbf3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
