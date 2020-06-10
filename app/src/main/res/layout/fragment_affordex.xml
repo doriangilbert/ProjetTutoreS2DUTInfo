@@ -1,14 +1,652 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <!-- TIP : Pour arranger le code XML automatiquement : Ctrl+Alt+L -->
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:text="Supprimez cette TextView et créez les éléments nécessaires pour le pokedex"
-        android:textAlignment="center"
-        android:textSize="30sp" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="10dp"
+                android:background="#80000000">
+
+                <TextView
+                    android:id="@+id/NomP1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Bulbizzare"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/ImageP1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentLeft="false"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginBottom="0dp"
+                    app:srcCompat="@drawable/bulbizzare" />
+
+                <TextView
+                    android:id="@+id/NumP1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP1"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginEnd="6dp"
+                    android:text="#001"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/TypeP1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP1"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Type : Plante"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/GenP1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/ImageP1"
+                    android:layout_alignLeft="@id/TypeP1"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="36dp"
+                    android:text="Génération : 1"
+                    android:textColor="#FFFFFF" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="10dp"
+                android:background="#80000000">
+
+                <TextView
+                    android:id="@+id/NomP2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Salamèche"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/ImageP2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginBottom="0dp"
+                    app:srcCompat="@drawable/salameche" />
+
+                <TextView
+                    android:id="@+id/NumP2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP2"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginEnd="6dp"
+                    android:text="#004"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/TypeP2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP2"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Type : Feu"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/GenP2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/ImageP2"
+                    android:layout_alignLeft="@id/TypeP2"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="36dp"
+                    android:text="Génération : 1"
+                    android:textColor="#FFFFFF" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="10dp"
+                android:background="#80000000">
+
+                <TextView
+                    android:id="@+id/NomP3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Carapuce"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/ImageP3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginBottom="0dp"
+                    app:srcCompat="@drawable/carapuce" />
+
+                <TextView
+                    android:id="@+id/NumP3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP3"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginEnd="6dp"
+                    android:text="#007"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/TypeP3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP3"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Type : Eau"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/GenP3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/ImageP3"
+                    android:layout_alignLeft="@id/TypeP3"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="36dp"
+                    android:text="Génération : 1"
+                    android:textColor="#FFFFFF" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="10dp"
+                android:background="#80000000">
+
+                <TextView
+                    android:id="@+id/NomP4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Pikachu"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/ImageP4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginBottom="0dp"
+                    app:srcCompat="@drawable/pikachu" />
+
+                <TextView
+                    android:id="@+id/NumP4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP4"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginEnd="6dp"
+                    android:text="#025"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/TypeP4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP4"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Type : Electrique"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/GenP4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/ImageP4"
+                    android:layout_alignLeft="@id/TypeP4"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="36dp"
+                    android:text="Génération : 1"
+                    android:textColor="#FFFFFF" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="10dp"
+                android:background="#80000000">
+
+                <TextView
+                    android:id="@+id/NomP5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Inconnu"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/ImageP5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="46dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginBottom="0dp"
+                    app:srcCompat="@drawable/inconnu" />
+
+                <TextView
+                    android:id="@+id/NumP5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP5"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginEnd="6dp"
+                    android:text="#000"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/TypeP5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP5"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Type : Inconnu"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/GenP5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/ImageP5"
+                    android:layout_alignLeft="@id/TypeP5"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="36dp"
+                    android:text="Génération : ?"
+                    android:textColor="#FFFFFF" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="10dp"
+                android:background="#80000000">
+
+                <TextView
+                    android:id="@+id/NomP6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Inconnu"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/ImageP6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="46dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginBottom="0dp"
+                    app:srcCompat="@drawable/inconnu" />
+
+                <TextView
+                    android:id="@+id/NumP6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP6"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginEnd="6dp"
+                    android:text="#000"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/TypeP6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP6"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Type : Inconnu"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/GenP6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/ImageP6"
+                    android:layout_alignLeft="@id/TypeP6"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="36dp"
+                    android:text="Génération : ?"
+                    android:textColor="#FFFFFF" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="10dp"
+                android:background="#80000000">
+
+                <TextView
+                    android:id="@+id/NomP7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Inconnu"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/ImageP7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="46dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginBottom="0dp"
+                    app:srcCompat="@drawable/inconnu" />
+
+                <TextView
+                    android:id="@+id/NumP7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP7"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginEnd="6dp"
+                    android:text="#000"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/TypeP7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP7"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Type : Inconnu"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/GenP7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/ImageP7"
+                    android:layout_alignLeft="@id/TypeP7"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="36dp"
+                    android:text="Génération : ?"
+                    android:textColor="#FFFFFF" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="10dp"
+                android:background="#80000000">
+
+                <TextView
+                    android:id="@+id/NomP8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Inconnu"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/ImageP8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="46dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginBottom="0dp"
+                    app:srcCompat="@drawable/inconnu" />
+
+                <TextView
+                    android:id="@+id/NumP8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP8"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginEnd="6dp"
+                    android:text="#000"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/TypeP8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP8"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Type : Inconnu"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/GenP8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/ImageP8"
+                    android:layout_alignLeft="@id/TypeP8"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="36dp"
+                    android:text="Génération : ?"
+                    android:textColor="#FFFFFF" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="10dp"
+                android:background="#80000000">
+
+                <TextView
+                    android:id="@+id/NomP9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Inconnu"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/ImageP9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="46dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginBottom="0dp"
+                    app:srcCompat="@drawable/inconnu" />
+
+                <TextView
+                    android:id="@+id/NumP9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP9"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginEnd="6dp"
+                    android:text="#000"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/TypeP9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP9"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Type : Inconnu"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/GenP9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/ImageP9"
+                    android:layout_alignLeft="@id/TypeP9"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="36dp"
+                    android:text="Génération : ?"
+                    android:textColor="#FFFFFF" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="10dp"
+                android:background="#80000000">
+
+                <TextView
+                    android:id="@+id/NomP10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Inconnu"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/ImageP10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="46dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginBottom="0dp"
+                    app:srcCompat="@drawable/inconnu" />
+
+                <TextView
+                    android:id="@+id/NumP10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP10"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginEnd="6dp"
+                    android:text="#000"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/TypeP10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/NomP10"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Type : Inconnu"
+                    android:textColor="#FFFFFF" />
+
+                <TextView
+                    android:id="@+id/GenP10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/ImageP10"
+                    android:layout_alignLeft="@id/TypeP10"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="118dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="36dp"
+                    android:text="Génération : ?"
+                    android:textColor="#FFFFFF" />
+            </RelativeLayout>
+
+        </LinearLayout>
+    </ScrollView>
 </RelativeLayout>
