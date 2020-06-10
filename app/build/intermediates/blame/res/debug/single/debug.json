@@ -1,102 +1,174 @@
 [
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_salameche.png.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\drawable\\salameche.png"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_affordex_real_round.xml.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_affordex_real_round.xml"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_salameche.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\drawable\\salameche.png"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_affordex.xml.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\layout\\fragment_affordex.xml"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header.xml.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\layout\\nav_header.xml"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\layout\\nav_header.xml"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_affordex.xml.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\drawable\\ic_affordex.xml"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_carapuce.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\drawable\\carapuce.png"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_carapuce.png.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\drawable\\carapuce.png"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_affordex_real_round.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_affordex_real_round.png"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_affordex_real.xml.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_affordex_real.xml"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_affordex_real.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_affordex_real.png"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_affordex_real.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_affordex_real.png"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bulbizzare.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\drawable\\bulbizzare.png"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inconnu.png.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\drawable\\inconnu.png"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_drawer_affordex_menu.xml.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\menu\\drawer_affordex_menu.xml"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pikachu.png.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\drawable\\pikachu.png"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_filter.xml.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\drawable\\ic_filter.xml"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_filter.xml.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\drawable\\ic_filter.xml"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_affordex_real_round.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_affordex_real_round.png"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bulbizzare.png.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\drawable\\bulbizzare.png"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_affordex_real_round.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_affordex_real_round.png"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_affordex_real_foreground.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_affordex_real_foreground.png"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_affordex_real_background.xml.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\drawable\\ic_affordex_real_background.xml"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_drawer_affordex_menu.xml.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\menu\\drawer_affordex_menu.xml"
     },
     {
-        "merged": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "A:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pikachu.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\drawable\\pikachu.png"
+    },
+    {
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_affordex_real.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_affordex_real.png"
+    },
+    {
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inconnu.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\drawable\\inconnu.png"
+    },
+    {
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_affordex.xml.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\layout\\fragment_affordex.xml"
+    },
+    {
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_affordex_real_foreground.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_affordex_real_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_affordex_real.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_affordex_real.png"
+    },
+    {
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_affordex.xml.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\drawable\\ic_affordex.xml"
+    },
+    {
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_affordex_real_foreground.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_affordex_real_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_affordex_real_round.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_affordex_real_round.png"
+    },
+    {
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_affordex_real.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_affordex_real.png"
+    },
+    {
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_affordex_real_foreground.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_affordex_real_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_affordex_real_round.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_affordex_real_round.png"
+    },
+    {
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_affordex_real_foreground.png.flat",
+        "source": "C:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_affordex_real_foreground.png"
     }
 ]

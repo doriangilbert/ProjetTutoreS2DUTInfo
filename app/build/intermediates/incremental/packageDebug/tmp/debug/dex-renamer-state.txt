@@ -1,7 +1,7 @@
-#Thu Jun 11 00:33:09 CEST 2020
-base.0=A\:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+#Thu Jun 11 00:46:08 CEST 2020
+base.0=C\:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=A\:\\Bureau\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.1=C\:\\Users\\antoi\\Downloads\\ProjetTutoreS2DUTInfo-master (1)\\ProjetTutoreS2DUTInfo-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex

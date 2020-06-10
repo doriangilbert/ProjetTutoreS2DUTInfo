@@ -1344,6 +1344,7 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable ic_affordex
+drawable ic_affordex_real_background
 drawable ic_calendar_black_24dp
 drawable ic_clear_black_24dp
 drawable ic_edit_black_24dp
@@ -1868,6 +1869,9 @@ layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
 menu drawer_affordex_menu
+mipmap ic_affordex_real
+mipmap ic_affordex_real_foreground
+mipmap ic_affordex_real_round
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
